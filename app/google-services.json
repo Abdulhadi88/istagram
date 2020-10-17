@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224780469795",
+    "firebase_url": "https://sosial-media-8f2ec.firebaseio.com",
+    "project_id": "sosial-media-8f2ec",
+    "storage_bucket": "sosial-media-8f2ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224780469795:android:62c68babc41832f5e41396",
+        "android_client_info": {
+          "package_name": "com.example.istagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224780469795-gablj385iiv56dr9v13rl29bdqbi55jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.istagram",
+            "certificate_hash": "915a605d1748cdaf511364de21e1003e9c69a7a9"
+          }
+        },
+        {
+          "client_id": "224780469795-p470fbbgnfhsdqk8tnl4f3kp69hg3832.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLvz5Szoz4aignDJx4Cw5m-tPUl14qbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224780469795-p470fbbgnfhsdqk8tnl4f3kp69hg3832.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
